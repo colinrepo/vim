@@ -141,8 +141,8 @@ Plug '907th/vim-auto-save'      " 自动保存插件
 Plug 'Yggdroot/LeaderF', { 'do': ':LeaderfInstallCExtension' }  " 模糊搜索
 Plug 'lambdalisue/vim-fern', { 'do':  ':call fern#install()'}
 Plug 'francoiscabrol/ranger.vim'
-Plug 'ludovicchabant/vim-gutentags'                             " 自动生成ctags、gtags
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+"Plug 'ludovicchabant/vim-gutentags'                             " 自动生成ctags、gtags
+"Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'tpope/vim-fugitive'                                       " Git集成
 Plug 'preservim/tagbar'                                         " 函数/寄存器标签导航
 Plug 'majutsushi/tagbar'                                        " 寄存器/宏定义导航
